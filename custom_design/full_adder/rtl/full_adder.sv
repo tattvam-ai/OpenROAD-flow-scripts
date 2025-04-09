@@ -1,6 +1,6 @@
 module full_adder 
 #(
-    parameter DATA_WIDTH = 2
+    parameter DATA_WIDTH = 8
 )
 (
     input clk,

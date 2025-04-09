@@ -8,3 +8,4 @@ export VERILOG_FILES = $(CUSTOM_DESIGN_HOME)/$(DESIGN_NICKNAME)/rtl/full_adder.s
 
 export SDC_FILE      = $(CUSTOM_DESIGN_HOME)/$(DESIGN_NICKNAME)/constraint.sdc
 
+export CORE_UTILIZATION = 50
